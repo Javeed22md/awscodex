@@ -1,0 +1,5 @@
+{
+  "name": "AWS Frontend Learning Hub",
+  "description": "A curated collection of frontend projects designed to help you master AWS services like S3, CloudFront, Lambda, and Cognito.",
+  "requestFramePermissions": []
+}
